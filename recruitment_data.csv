@@ -1,0 +1,101 @@
+Candidate Name,Country,Role,Application Date,Result of First Interview,Result of Product Interview,Result of Code Live,Result of Culture Fit,Result of Offer,Total Years of Experience,Source of Application,Interview Score: First,Interview Score: Product,Interview Score: Code Live,Interview Score: Culture Fit,Salary Expectations,Time: App to First (days),Time: First to Product/Code (days),Time: Product/Code to Culture (days)
+Lukas Schmidt,Germany,PHP,2024-01-05,Pass,NA,Pass,Pass,Hired,5,Referral,85,NA,78,82,52000,10,7,5
+Sofia Rossi,Italy,JS,2024-01-07,Pass,NA,Fail,NA,NA,7,Job Board,72,NA,45,NA,48000,8,6,NA
+Elena Popescu,Romania,PM,2024-01-10,Pass,Pass,NA,Fail,NA,4,Company Website,90,65,NA,40,55000,12,8,4
+Pierre Dupont,France,PHP,2024-01-12,Fail,NA,NA,NA,NA,8,Recruitment Agency,55,NA,NA,NA,46000,7,NA,NA
+Anna Kowalska,Poland,JS,2024-01-15,Pass,NA,Pass,Pass,Hired,6,Social Media,88,NA,80,75,59000,9,5,6
+Miguel Torres,Spain,PM,2024-01-20,Pass,Fail,NA,NA,NA,3,Job Board,70,50,NA,NA,47000,11,7,NA
+Freya Nilsson,Sweden,PHP,2024-01-25,Pass,NA,Pass,Pass,Hired,9,Referral,82,NA,85,60,51000,13,8,3
+Ivan Petrov,Bulgaria,JS,2024-02-01,Pass,NA,Pass,Pass,Hired,5,Company Website,92,NA,88,85,57000,6,9,5
+Clara Jensen,Denmark,PM,2024-02-05,Pass,Pass,NA,Pass,Hired,7,Recruitment Agency,95,82,NA,90,60000,10,6,7
+Matteo Bianchi,Italy,PHP,2024-02-10,Fail,NA,NA,NA,NA,4,Social Media,60,NA,NA,NA,45000,8,NA,NA
+Hans Müller,Germany,JS,2024-02-15,Pass,NA,Pass,Pass,Hired,8,Referral,88,NA,75,80,53000,9,6,4
+Olga Ivanova,Ukraine,PM,2024-02-20,Pass,Pass,NA,Fail,NA,6,Job Board,85,70,NA,55,49000,11,7,5
+Thomas Brown,United Kingdom,PHP,2024-02-25,Pass,NA,Pass,Pass,Hired,3,Company Website,90,NA,82,78,58000,12,8,6
+Maria Silva,Portugal,JS,2024-03-01,Pass,NA,Fail,NA,NA,9,Recruitment Agency,75,NA,60,NA,46000,7,5,NA
+Lars Eriksson,Sweden,PM,2024-03-05,Pass,Pass,NA,Pass,Hired,5,Social Media,93,85,NA,88,56000,10,9,4
+Jakub Novák,Czechia,PHP,2024-03-10,Pass,NA,Fail,NA,NA,7,Job Board,70,NA,65,NA,47500,8,7,NA
+Emma Weber,Germany,JS,2024-03-15,Pass,NA,Pass,Pass,Hired,4,Referral,87,NA,90,83,54000,11,6,5
+Katarina Horvat,Croatia,PM,2024-03-20,Fail,NA,NA,NA,NA,8,Company Website,50,NA,NA,NA,45500,9,NA,NA
+James Taylor,United Kingdom,PHP,2024-03-25,Pass,NA,Pass,Pass,Hired,6,Recruitment Agency,89,NA,80,77,59500,13,8,3
+Sophie Lefèvre,France,JS,2024-04-01,Pass,NA,Pass,Fail,NA,3,Social Media,76,NA,85,62,48500,7,5,6
+Anders Lindgren,Sweden,PM,2024-04-05,Pass,Pass,NA,Pass,Hired,9,Job Board,91,78,NA,86,57500,10,7,5
+Pavel Dimitrov,Bulgaria,PHP,2024-04-10,Pass,NA,Fail,NA,NA,5,Referral,73,NA,55,NA,46500,12,9,NA
+Elena Greco,Italy,JS,2024-04-15,Fail,NA,NA,NA,NA,7,Company Website,58,NA,NA,NA,45000,8,NA,NA
+Karl Bergman,Sweden,PM,2024-04-20,Pass,Pass,NA,Pass,Hired,4,Recruitment Agency,94,80,NA,92,59000,11,6,4
+Stefan Meier,Germany,PHP,2024-04-25,Pass,NA,Pass,Pass,Hired,8,Social Media,86,NA,83,79,52500,9,7,5
+Ana Costa,Portugal,JS,2024-05-01,Pass,NA,Pass,Fail,NA,6,Job Board,79,NA,77,64,47000,10,8,3
+Viktor Andersson,Sweden,PM,2024-05-05,Pass,Pass,NA,Pass,Hired,3,Referral,93,84,NA,87,58500,12,5,6
+Marta Nowak,Poland,PHP,2024-05-10,Pass,NA,Pass,Fail,NA,9,Company Website,74,NA,79,66,49500,7,6,4
+Luca Ferrari,Italy,JS,2024-05-15,Fail,NA,NA,NA,NA,5,Recruitment Agency,62,NA,NA,NA,45000,8,NA,NA
+Sophie Harris,United Kingdom,PM,2024-05-20,Pass,Pass,NA,Pass,Hired,7,Social Media,92,81,NA,89,56500,11,7,5
+Jonas Wagner,Germany,PHP,2024-05-25,Pass,NA,Pass,Pass,Hired,4,Job Board,88,NA,84,80,54000,9,8,6
+Ines Lopez,Spain,JS,2024-06-01,Pass,NA,Fail,NA,NA,8,Referral,71,NA,58,NA,47500,13,5,NA
+Nils Gustavsson,Sweden,PM,2024-06-05,Pass,Pass,NA,Pass,Hired,6,Company Website,95,83,NA,91,59500,10,9,4
+Peter Szabó,Hungary,PHP,2024-06-10,Fail,NA,NA,NA,NA,3,Recruitment Agency,57,NA,NA,NA,46000,7,NA,NA
+Laura Müller,Germany,JS,2024-06-15,Pass,NA,Pass,Pass,Hired,9,Social Media,89,NA,86,78,55000,12,6,5
+Olga Petrova,Russia,PM,2024-06-20,Pass,Fail,NA,NA,NA,5,Job Board,76,55,NA,NA,48000,8,7,NA
+David Clark,United Kingdom,PHP,2024-06-25,Pass,NA,Pass,Pass,Hired,7,Referral,87,NA,81,85,57000,11,8,3
+Hanna Jansson,Sweden,JS,2024-07-01,Pass,NA,Pass,Pass,Hired,4,Company Website,90,NA,88,82,58000,9,5,6
+Marco Rossi,Italy,PM,2024-07-05,Pass,Pass,NA,Fail,NA,8,Recruitment Agency,84,68,NA,50,46500,10,6,4
+Erik Larsen,Norway,PHP,2024-07-10,Pass,NA,Fail,NA,NA,6,Social Media,73,NA,62,NA,49000,12,7,NA
+Julia Becker,Germany,JS,2024-07-15,Pass,NA,Pass,Pass,Hired,3,Job Board,91,NA,79,84,56000,8,9,5
+Alina Ionescu,Romania,PM,2024-07-20,Pass,Pass,NA,Pass,Hired,9,Referral,94,80,NA,90,59000,11,6,3
+Liam Wilson,United Kingdom,PHP,2024-07-25,Pass,NA,Pass,Pass,Hired,5,Company Website,88,NA,83,76,54500,10,8,4
+Eva Novak,Slovenia,JS,2024-08-01,Pass,NA,Fail,NA,NA,7,Recruitment Agency,70,NA,59,NA,47500,7,5,NA
+Sven Olsson,Sweden,PM,2024-08-05,Pass,Pass,NA,Pass,Hired,4,Social Media,92,85,NA,88,57000,13,7,6
+Tomas Varga,Slovakia,PHP,2024-08-10,Fail,NA,NA,NA,NA,8,Job Board,56,NA,NA,NA,45000,9,NA,NA
+Clara Schmidt,Germany,JS,2024-08-15,Pass,NA,Pass,Pass,Hired,6,Referral,89,NA,87,81,56000,11,6,5
+Beatrice Conti,Italy,PM,2024-08-20,Pass,Fail,NA,NA,NA,3,Company Website,77,52,NA,NA,48500,8,8,NA
+Oliver Green,United Kingdom,PHP,2024-08-25,Pass,NA,Pass,Pass,Hired,9,Recruitment Agency,90,NA,82,79,57500,10,7,4
+Lena Holm,Sweden,JS,2024-09-01,Pass,NA,Pass,Pass,Hired,5,Social Media,93,NA,85,88,59000,12,9,3
+Antonio Ricci,Italy,PM,2024-09-05,Fail,NA,NA,NA,NA,7,Job Board,59,NA,NA,NA,46000,7,NA,NA
+Marek Zielinski,Poland,PHP,2024-09-10,Pass,NA,Pass,Fail,NA,4,Referral,76,NA,78,63,48000,10,6,5
+Frida Eriksson,Sweden,JS,2024-09-15,Pass,NA,Pass,Pass,Hired,8,Company Website,91,NA,84,86,58500,11,8,4
+Sofia Mendes,Portugal,PM,2024-09-20,Pass,Pass,NA,Pass,Hired,6,Recruitment Agency,95,80,NA,92,57000,9,7,6
+Klaus Fischer,Germany,PHP,2024-09-25,Pass,NA,Pass,Pass,Hired,3,Social Media,88,NA,81,77,55000,12,5,3
+Zoe Papadopoulos,Greece,JS,2024-10-01,Pass,NA,Fail,NA,NA,9,Job Board,74,NA,60,NA,46500,8,9,NA
+Elsa Bjornsson,Sweden,PM,2024-10-05,Pass,Pass,NA,Pass,Hired,5,Referral,93,83,NA,89,59500,10,6,5
+Filip Horvat,Croatia,PHP,2024-10-10,Fail,NA,NA,NA,NA,7,Company Website,58,NA,NA,NA,45000,11,NA,NA
+Marie Schulz,Germany,JS,2024-10-15,Pass,NA,Pass,Pass,Hired,4,Recruitment Agency,90,NA,87,80,56000,9,7,4
+Carla Santos,Spain,PM,2024-10-20,Pass,Fail,NA,NA,NA,8,Social Media,77,54,NA,NA,47500,13,8,NA
+Henry Adams,United Kingdom,PHP,2024-10-25,Pass,NA,Pass,Pass,Hired,6,Job Board,89,NA,82,78,58000,10,6,5
+Klara Nilsson,Sweden,JS,2024-11-01,Pass,NA,Pass,Pass,Hired,3,Referral,92,NA,85,88,59000,12,9,3
+Dino Moretti,Italy,PM,2024-11-05,Pass,Pass,NA,Fail,NA,9,Company Website,84,67,NA,52,48500,7,5,6
+Lukas Polak,Poland,PHP,2024-11-10,Pass,NA,Fail,NA,NA,5,Recruitment Agency,71,NA,58,NA,47000,8,7,NA
+Astrid Lind,Sweden,JS,2024-11-15,Pass,NA,Pass,Pass,Hired,7,Social Media,93,NA,86,90,57500,11,8,4
+Petra Kovač,Slovenia,PM,2024-11-20,Pass,Pass,NA,Pass,Hired,4,Job Board,95,81,NA,87,56500,9,6,5
+Maximilian Braun,Germany,PHP,2024-11-25,Pass,NA,Pass,Pass,Hired,8,Referral,88,NA,83,79,55000,10,7,3
+Chloe Evans,United Kingdom,JS,2024-12-01,Pass,NA,Pass,Pass,Hired,6,Company Website,91,NA,80,85,58000,12,5,6
+Rosa Ferreira,Portugal,PM,2024-12-05,Pass,Fail,NA,NA,NA,3,Recruitment Agency,76,56,NA,NA,46000,8,9,NA
+Jan Koval,Czechia,PHP,2024-12-10,Fail,NA,NA,NA,NA,9,Social Media,60,NA,NA,NA,45000,7,NA,NA
+Hanna Berg,Sweden,JS,2024-12-15,Pass,NA,Pass,Pass,Hired,5,Job Board,92,NA,88,86,59000,11,6,4
+Ioana Marinescu,Romania,PM,2024-12-20,Pass,Pass,NA,Pass,Hired,7,Referral,94,82,NA,91,57000,10,8,5
+Paul Weber,Germany,PHP,2024-12-25,Pass,NA,Pass,Pass,Hired,4,Company Website,89,NA,84,80,55500,9,7,3
+Nina Olsen,Norway,JS,2024-12-30,Pass,NA,Fail,NA,NA,8,Recruitment Agency,75,NA,61,NA,47500,12,5,NA
+Leif Magnusson,Sweden,PM,2025-01-05,Pass,Pass,NA,Pass,Hired,6,Social Media,93,85,NA,89,58500,10,9,6
+Gabor Kiss,Hungary,PHP,2025-01-10,Pass,NA,Fail,NA,NA,3,Job Board,72,NA,59,NA,46500,8,6,NA
+Emma Fischer,Germany,JS,2025-01-15,Pass,NA,Pass,Pass,Hired,9,Referral,90,NA,82,87,57500,11,8,4
+Lara Dubois,France,PM,2025-01-20,Pass,Pass,NA,Fail,NA,5,Company Website,85,68,NA,53,48000,9,7,5
+George Hall,United Kingdom,PHP,2025-01-25,Pass,NA,Pass,Pass,Hired,7,Recruitment Agency,88,NA,80,78,56000,10,6,3
+Sara Lund,Sweden,JS,2025-02-01,Pass,NA,Pass,Pass,Hired,4,Social Media,92,NA,85,90,59000,12,9,5
+Viktorija Petrauskaitė,Lithuania,PM,2025-02-05,Pass,Fail,NA,NA,NA,8,Job Board,76,57,NA,NA,47000,7,5,NA
+Adam Svoboda,Czechia,PHP,2025-02-10,Pass,NA,Pass,Fail,NA,6,Referral,79,NA,77,64,48500,11,7,6
+Elsa Johansson,Sweden,JS,2025-02-15,Pass,NA,Pass,Pass,Hired,3,Company Website,93,NA,88,86,58000,10,8,4
+Diana Popova,Bulgaria,PM,2025-02-20,Pass,Pass,NA,Pass,Hired,9,Recruitment Agency,94,81,NA,89,56500,9,6,5
+Florian Klein,Germany,PHP,2025-02-25,Pass,NA,Pass,Pass,Hired,5,Social Media,87,NA,83,80,55000,12,7,3
+Mia Roberts,United Kingdom,JS,2025-03-01,Pass,NA,Pass,Pass,Hired,7,Job Board,91,NA,86,84,57000,8,5,6
+Lucia Gomez,Spain,PM,2025-03-05,Pass,Pass,NA,Fail,NA,4,Referral,85,70,NA,55,47500,10,9,4
+Ondrej Hasek,Czechia,PHP,2025-03-10,Fail,NA,NA,NA,NA,8,Company Website,61,NA,NA,NA,45000,7,NA,NA
+Linnea Persson,Sweden,JS,2025-03-15,Pass,NA,Pass,Pass,Hired,6,Recruitment Agency,92,NA,87,88,59000,11,6,5
+Reka Molnar,Hungary,PM,2025-03-20,Pass,Pass,NA,Pass,Hired,3,Social Media,94,82,NA,90,57500,9,8,3
+Leon Schmidt,Germany,PHP,2025-03-25,Pass,NA,Pass,Pass,Hired,9,Job Board,89,NA,81,77,56000,10,7,4
+Ellie Turner,United Kingdom,JS,2025-04-01,Pass,NA,Pass,Pass,Hired,5,Referral,90,NA,85,86,58000,12,5,6
+Marta Sousa,Portugal,PM,2025-04-05,Pass,Fail,NA,NA,NA,7,Company Website,78,58,NA,NA,46500,8,9,NA
+Ivan Stojanovic,Serbia,PHP,2025-04-10,Pass,NA,Fail,NA,NA,4,Recruitment Agency,73,NA,60,NA,47000,11,6,NA
+Thea Holm,Sweden,JS,2025-04-15,Pass,NA,Pass,Pass,Hired,8,Social Media,93,NA,88,89,59500,10,8,5
+Anca Radu,Romania,PM,2025-04-20,Pass,Pass,NA,Pass,Hired,6,Job Board,95,83,NA,91,57000,9,7,4
+Tobias Hoffmann,Germany,PHP,2025-04-25,Pass,NA,Pass,Pass,Hired,3,Referral,88,NA,82,78,55000,12,6,3
+Lily Walker,United Kingdom,JS,2025-05-01,Pass,NA,Pass,Pass,Hired,9,Company Website,92,NA,86,87,58500,10,9,5
+Marta Koval,Ukraine,PM,2025-05-05,Pass,Pass,NA,Fail,NA,5,Recruitment Agency,84,66,NA,54,47500,8,5,6
+Piotr Zielinski,Poland,PHP,2025-05-10,Pass,NA,Pass,Pass,Hired,7,Social Media,90,NA,80,85,56000,11,7,4
